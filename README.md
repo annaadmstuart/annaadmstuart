@@ -26,4 +26,4 @@ Site desenvolvido com HTML5 e CSS3 apresentando meus projetos e habilidades.
 ## Contato
 
 Email: annaadmstuart@gmail.com  
-LinkedIn:
+LinkedIn:https://www.linkedin.com/in/anna-stuart-10114826b/
