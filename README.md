@@ -1,16 +1,29 @@
-## Hi there 👋
+# Anna Lydia Stuart Porto
 
-<!--
-**annaadmstuart/annaadmstuart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tecnóloga em Sistemas para Internet com interesse em desenvolvimento web, banco de dados e sistemas corporativos.
 
-Here are some ideas to get you started:
+## Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML5
+- CSS3
+- Git e GitHub
+- Banco de Dados (SQLite, PostgreSQL, MSSQL)
+- GeneXus 18
+
+## Projetos
+
+### Sistema de Loja – GeneXus
+Sistema acadêmico com:
+- cadastro de produtos
+- cadastro de clientes
+- vendedores
+- carrinho de compras
+- controle de vendas
+
+### Portfólio Web
+Site desenvolvido com HTML5 e CSS3 apresentando meus projetos e habilidades.
+
+## Contato
+
+Email: annaadmstuart@gmail.com  
+LinkedIn:
